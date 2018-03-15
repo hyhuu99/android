@@ -1,0 +1,255 @@
+<resources>
+    <string name="app_name">CookingEbook</string>
+    <string name="first_recipe"><![CDATA[
+    <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
+<span class="item">
+<h2 class="fn" itemprop="name">Spaghetti with Meatballs</h2>
+</span>
+
+<div class="summary" itemprop="description" style="clear:left"><p>Recipe courtesy of Michael Symon</p>
+</div>
+
+
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT8M">2 hr</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT22M"> 3hr 30 min</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT30M">5 hr 30 min</p>
+</div>
+
+<h3 id="ingredients">Ingredients:</h3>
+<div class="ingredients"><ul>
+<li class="ingredient" itemprop="ingredients">1/4 cup olive oil/li>
+<li class="ingredient" itemprop="ingredients">1 rack baby back ribs, separated (about 2 pounds)</li>
+<li class="ingredient" itemprop="ingredients">1 large Spanish onion, diced/li>
+<li class="ingredient" itemprop="ingredients">1 tablespoon kosher salt</li>
+<li class="ingredient" itemprop="ingredients">6 cloves garlic, sliced/li>
+<li class="ingredient" itemprop="ingredients">1 bottle dry white wine</li>
+<li class="ingredient" itemprop="ingredients">Two 28-ounce cans San Marzano tomatoes, chopped</li>
+<li class="ingredient" itemprop="ingredients">3 tablespoons fresh oregano leaves</li>
+<li class="ingredient" itemprop="ingredients">1 fresh bay leaf</li>
+<li class="ingredient" itemprop="ingredients">salt and pepper</li>
+<li class="ingredient" itemprop="ingredients">One 2-to 3-inch Parmesan rind</li>
+</ul>
+</div>
+
+
+<h3 style="clear:left" id="directions">Directions:</h3>
+<div class="instructions"><p>For the sauce: Heat the oil in a large Dutch oven over medium heat. Add the ribs and brown evenly, about 4 minutes. Add the onions, sprinkle with salt and cook until translucent, 2 minutes. Add the garlic and cook until everything is soft but not browned, about 3 minutes. Add the white wine, stirring to deglaze the pan. Add the tomatoes along with the oregano, red pepper flakes if using, bay leaf and Parmesan rind. Bring the sauce to a simmer, reduce the heat to its lowest possible setting and continue to cook until reduced by about a third, for up to 8 hours. </p>
+<p>Taste for seasoning and add more salt if necessary. Remove the bay leaf. If not using right away, let the sauce cool, and then cover and refrigerate for up to 1 week or freeze for up to 2 months. Makes about 2 quarts. </p>
+<p>For the meatballs and sauce: In a small saute pan over medium heat, add 1 tablespoon of the oil, the garlic and shallots and sweat until translucent, 2 to 3 minutes. </p>
+<p>Soak the bread in the milk in a medium bowl.</p>
+<p>In a separate bowl, combine the beef with the ricotta, basil, parsley, Parmesan, salt, egg and the cooked shallots and garlic. After the bread has soaked up the milk, remove it from the bowl and ring out the remaining liquid. Thoroughly mix the bread into the meat mixture. </p>
+<p>Form the meat mixture into 2-inch balls using about 1/4 cup for each. Heat the remaining olive oil in a large frying pan and add the meatballs. Cook until golden on the outside, 2 to 3 minutes per side. </p>
+<p>Place Yia Yia's Neapolitan Sauce in a large saucepan and add the meatballs. (Keep the frying pan for finishing the pasta.) Bring to a simmer and simmer about 30 minutes. </p>
+<p>For the spaghetti: Bring a large pot of salted water to a boil. Cook the spaghetti al dente, according to the package directions. </p>
+<p>Add a cup or two of the sauce to the empty meatball pan over medium heat. Drain the spaghetti and add it to the pan, along with the basil leaves, Parmesan and butter. Toss to coat. Transfer to a serving platter, top with the meatballs and ribs from Yia Yia's Neapolitan Sauce and serve with the remaining sauce on the side.</p>
+</div>
+
+</div>
+    ]]></string>
+    <string name="second_recipe">
+
+        <![CDATA[
+        <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
+
+<span class="item">
+<h2 class="fn" itemprop="name">Luck of the Irish Whiskey Cocktail</h2>
+</span>
+
+<div class="summary" itemprop="description" style="clear:left"><p>Luck of the Irish Whiskey Cocktail</p>
+</div>
+
+<div class="time postmeta">
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT10M">5 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT35M">5 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT45M">10 mins</p>
+</div>
+
+<h3 id="ingredients">Ingredients:</h3>
+<div class="ingredients"><ul class="two_col_li">
+<li class="ingredient" itemprop="ingredients">2 ounces Irish whiskey</li>
+<li class="ingredient" itemprop="ingredients">1 ounce Irish whiskey and cream based liqueur</li>
+<li class="ingredient" itemprop="ingredients">1/2 ounce creme de menthe</li>
+<li class="ingredient" itemprop="ingredients">Ice, as needed</li>
+<li class="ingredient" itemprop="ingredients">1 mint-flavored chocolate candy, shaved (recommended: Andes candy)</li>
+</ul>
+</div>
+
+
+<h3 style="clear:left" id="directions">Directions:</h3>
+<div class="instructions"><p>Shake whiskey, Irish whiskey-cream liqueur, and creme de menthe over ice; strain and pour into an up glass. Shave mint candy over top.</p>
+<p>Series: Drinks with Alie and Georgia Episode: St. Patrick's Day Cocktail (Ep. 20)</p>
+</div>
+
+</div>
+        ]]>
+    </string>
+    <string name="third_recipe">
+        <![CDATA[
+<div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
+
+<span class="item">
+<h2 class="fn" itemprop="name">Creamy Raspberry Protein Smoothie</h2>
+</span>
+
+<div class="summary" itemprop="description" style="clear:left"><p>This Creamy Raspberry Protein Smoothie is packed with feel-good ingredients, and tastes so sweet and delicious!</p>
+</div>
+
+<div class="time postmeta">
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT3M">3 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT0M">0 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT3M">3 mins</p>
+</div>
+
+<h3 id="ingredients">Ingredients:</h3>
+<div class="ingredients"><ul>
+<li class="ingredient" itemprop="ingredients">1 1/2 cups frozen raspberries</li>
+<li class="ingredient" itemprop="ingredients">1 banana, sliced and frozen</li>
+<li class="ingredient" itemprop="ingredients">3/4 cup plain or vanilla almond milk</li>
+<li class="ingredient" itemprop="ingredients">1/2 cup plain or vanilla Greek yogurt</li>
+<li class="ingredient" itemprop="ingredients">1 tablespoon <a href="http://amzn.to/2motYOV" target="_blank" rel="nofollow">bee pollen</a></li>
+<li class="ingredient" itemprop="ingredients">1 tablespoon <a href="http://amzn.to/2lOwY8w" target="_blank" rel="nofollow">hemp seeds</a></li>
+<li class="ingredient" itemprop="ingredients">1 teaspoon <a href="http://amzn.to/2lJwfUD" target="_blank" rel="nofollow">chia seeds</a></li>
+<li class="ingredient" itemprop="ingredients"><em>optional:&nbsp;</em>1-2 tablespoons of honey to sweeten, if needed</li>
+</ul>
+</div>
+
+
+<h3 style="clear:left" id="directions">Directions:</h3>
+<div class="instructions"><ol>
+<li>Add all ingredients to a blender and puree until smooth. &nbsp;If you need to thin out the smoothie, add extra almond milk.</li>
+<li>Taste, and add some honey if you\'d like the smoothie to be sweeter.</li>
+<li>Serve immediately, garnished with extra bee pollen, hemp seeds, and chia seeds, if desired.</li>
+</ol>
+</div>
+
+
+
+<div class="postmeta bottommeta">
+<span class="cat1">Difficulty: Easy</span>
+<span class="cat3">Category: Quick</span>
+
+</div>
+
+</div>
+        ]]>
+
+    </string>
+    <string name="fourth_recipe">
+        <![CDATA[
+        <div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
+<span class="item">
+<h2 class="fn" itemprop="name">Chocolate Chip Cookies</h2>
+</span>
+
+<div class="summary" itemprop="description" style="clear:left"><p>Chocolate Chip Cookies</p>
+</div>
+
+<div class="time postmeta">
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT15M">25 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT20M">20 mins</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT25M">45 mins</p>
+</div>
+
+<h3 id="ingredients">Ingredients:</h3>
+<div class="ingredients"><h4>Ingredients:</h4>
+<ul>
+<li class="ingredient">2 sticks (1 cup) unsalted butter, softened</em></li>
+<li class="ingredient">1 cup light brown sugar</li>
+<li class="ingredient">1/3 cup granulated sugar</li>
+<li class="ingredient">2 large eggs</li>
+<li class="ingredient">2 teaspoons vanilla extract</li>
+<li class="ingredient">2 1/2 cups all-purpose flour</li>
+<li class="ingredient">1 teaspoon baking powder</li>
+<li class="ingredient">1 teaspoon baking soda</li>
+<li class="ingredient">3/4 teaspoon salt</li>
+<li class="ingredient">2 cups milk chocolate chips</li>
+</ul>
+
+<h3 style="clear:left" id="directions">Directions:</h3>
+<ol>
+<li>Preheat the oven to 350 degrees F. Line a baking sheet with parchment paper.</li>
+<li>Cream together the butter and sugars in a mixing bowl, mixing until pale yellow and light and fluffy, about 3 minutes. Mix in the eggs one at a time, and then the vanilla until combined.</li>
+<li>Whisk together the flour, baking powder, baking soda and salt in a separate mixing bowl. Slowly incorporate the dry ingredients into the wet ingredients. Stir in the chocolate chips. Portion 2 tablespoons of dough for each cookie and roll together to form a ball, spacing the dough balls 2 inches apart on the baking sheet.</li>
+<li>Bake until the edges just start to brown, 12 to 14 minutes. Transfer to a wire rack to cool.</li>
+</ol>
+</div>
+
+
+</div>
+        ]]>
+    </string>
+    <string name="fifth_recipe">
+        <![CDATA[
+<div id="recipe" class="recipe" itemscope="" itemtype="http://schema.org/Recipe">
+
+<span class="item">
+<h2 class="fn" itemprop="name">The Miracle Boule</h2>
+</span>
+
+
+<div class="time postmeta">
+<p class="cat1"><strong>Prep Time:</strong> <meta itemprop="prepTime" content="PT10M">10 mins</p>
+<p class="cat2"><strong>Cook Time:</strong> <meta itemprop="cookTime" content="PT10M">15 hr</p>
+<p class="cat3"><strong>Total Time:</strong> <meta itemprop="totalTime" content="PT20M">15 hr 10 min</p>
+</div>
+
+<h3 id="ingredients">Ingredients:</h3>
+<div class="ingredients"><h4>Ingredients:</h4>
+<ul>
+<li class="ingredient" itemprop="ingredients">1 3 cups/375 g all-purpose flour, plus more as needed</li>
+<li class="ingredient" itemprop="ingredients">1 1/4 teaspoons salt</li>
+<li class="ingredient" itemprop="ingredients">1/4 teaspoon instant yeast</li>
+<li class="ingredient" itemprop="ingredients">Cornmeal, wheat bran or extra flour, as needed</li>
+</ul>
+
+<h3 style="clear:left" id="directions">Directions:</h3>
+<ol>
+<li>Mix the flour, salt and yeast in a bowl. Stir in 1 1/2 cups/375 ml water to blend. What you ll have is a wet, shaggy, sticky dough, but not so wet as to be batter. Cover the bowl with a tea towel and let it rest in a warm place for at least 12 hours, and up to 24 hours. It s ready for the next step when the surface is dotted with bubbles</li>
+<li>Flour a work surface and dump the dough out onto it. Sprinkle over a little more flour and fold it once or twice. Cover with the tea towel and let rest 15 minutes..</li>
+<li>Using only enough flour to keep the dough from sticking to your fingers, shape the dough into a ball. Coat a cotton towel with cornmeal, wheat bran or flour and lay the dough on it, seam-side down. Dust with more cornmeal, wheat bran or flour. (You need quite a lot because you want to be sure the dough doesn't stick to the towel). Cover and let rise for about 2 hours. When ready, the dough will be more than double in size.</li>
+<li>Half an hour before the dough is ready, preheat the oven to 450 degrees F/230 degrees C. Put a 2-liter cast-iron pot or Dutch oven (cocotte) inside to heat./li>
+</ol>
+<h4>To Make The Stir-Fry Sauce:</h4>
+<ol>
+<li>Whisk all ingredients together in a small bowl until combined.</li>
+</ol>
+</div>
+
+
+
+<div class="postmeta bottommeta">
+<span class="cat1">Difficulty: Easy</span>
+<span class="cat3">Category: Quick</span>
+
+</div>
+
+</div>
+        ]]>
+
+    </string>
+    <string name="click">Details</string>
+    <string-array name="cooks_recipe">
+        <item>@string/first_recipe</item>
+        <item>@string/second_recipe</item>
+        <item>@string/third_recipe</item>
+        <item>@string/fourth_recipe</item>
+        <item>@string/fifth_recipe</item>
+        <item>@string/first_recipe</item>
+        <item>@string/second_recipe</item>
+        <item>@string/third_recipe</item>
+        <item>@string/fourth_recipe</item>
+        <item>@string/fifth_recipe</item>
+    </string-array>
+    <string-array name="cooks_title">
+        <item>Spaghetti with Meatballs</item>
+        <item>Luck of the Irish Whiskey Cocktail</item>
+        <item>Creamy Raspberry Protein Smoothie</item>
+        <item>Chocolate Chip Cookies</item>
+        <item>The Miracle Boule</item>
+        <item>Spaghetti with Meatballs</item>
+        <item>Luck of the Irish Whiskey Cocktail</item>
+        <item>Creamy Raspberry Protein Smoothie</item>
+        <item>Chocolate Chip Cookies</item>
+        <item>The Miracle Boule</item>
+    </string-array>
+</resources>
