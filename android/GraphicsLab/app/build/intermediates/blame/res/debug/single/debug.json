@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b64.png.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\drawable-hdpi\\b64.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b128.png.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\drawable-hdpi\\b128.png"
+    },
+    {
+        "merged": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\build\\intermediates\\res\\merged\\debug\\raw_bubble_pop.wav.flat",
+        "source": "C:\\Users\\Nguyen Hoa\\Downloads\\import\\GraphicsLab\\app\\src\\main\\res\\raw\\bubble_pop.wav"
+    }
+]

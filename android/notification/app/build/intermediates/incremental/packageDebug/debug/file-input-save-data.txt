@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 01 22:54:16 GMT+07:00 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Nguyen Hoa\\Downloads\\import\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
